@@ -1,0 +1,10 @@
+package-lock.json
+.vscode/settings.json
+Thumbs.db
+Desktop.ini
+/nbproject/private/
+node_modules/*
+/config.json
+/config/config.json
+config.json
+seed.js
