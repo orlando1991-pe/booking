@@ -1,2 +1,3 @@
-# booking
-new project for small business
+# Booking WhatsApp MVP
+
+Run with docker-compose.
